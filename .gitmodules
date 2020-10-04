@@ -1,0 +1,15 @@
+[submodule "projects/Sensor-Fusion-LiDAR-Obstacle-Detection"]
+	path = projects/Sensor-Fusion-LiDAR-Obstacle-Detection
+	url = https://github.com/Cram3r95/Sensor-Fusion-LiDAR-Obstacle-Detection
+[submodule "projects/Sensor-Fusion-2D-Feature-Matching"]
+	path = projects/Sensor-Fusion-2D-Feature-Matching
+	url = https://github.com/Cram3r95/Sensor-Fusion-2D-Feature-Matching
+[submodule "projects/3D-Object-Tracking"]
+	path = projects/3D-Object-Tracking
+	url = https://github.com/Cram3r95/Sensor-Fusion-3D-Object-Tracking
+[submodule "projects/Sensor-Fusion-RADAR-Target-Generation-and-Detection"]
+	path = projects/Sensor-Fusion-RADAR-Target-Generation-and-Detection
+	url = https://github.com/Cram3r95/Sensor-Fusion-RADAR-Target-Generation-and-Detection
+[submodule "projects/Sensor-Fusion-Unscented-Kalman-Filter"]
+	path = projects/Sensor-Fusion-Unscented-Kalman-Filter
+	url = https://github.com/Cram3r95/Sensor-Fusion-Unscented-Kalman-Filter
